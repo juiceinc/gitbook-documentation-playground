@@ -13,3 +13,7 @@
 * [Page 2](another-group/page-2.md)
 * [Untitled](another-group/untitled.md)
 
+## A Kewl Group
+
+* [What a nice title](a-kewl-group/what-a-nice-title.md)
+
