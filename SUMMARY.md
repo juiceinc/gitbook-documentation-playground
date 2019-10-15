@@ -16,4 +16,5 @@
 ## A Kewl Group
 
 * [What a nice title](a-kewl-group/what-a-nice-title.md)
+* [Another Nice Thing](a-kewl-group/another-nice-thing.md)
 
