@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Doc Formatting Guide](doc-formatting-guide.md)
 
 ## This is a group
 
