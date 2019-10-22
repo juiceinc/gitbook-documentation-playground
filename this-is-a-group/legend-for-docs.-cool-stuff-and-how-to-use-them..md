@@ -4,7 +4,7 @@ description: >-
   Gitbook to keep the docs' continuity in check.
 ---
 
-# Legend for docs. cool stuff and how to use them.
+# Legend for docs: cool stuff and how to use them
 
 ## Heading 1 is reserved for main headings 
 
