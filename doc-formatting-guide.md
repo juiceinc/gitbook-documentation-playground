@@ -153,3 +153,19 @@ Using quotes throughout the docs to highlight the practical and philosophical re
 
 > It's useful to include a quote when explaining an idea specific to our product \(like a recipe, a slice, etc\) or a choice that was made based on a choice we made where the reasoning might not be readily apparent \(like the difference in metrics and dimensions, concepts that bump normal data story thought processes, etc\).
 
+## Links
+
+With Gitbook, there are a few options for linking. When you can, use normal linking within text [like this](doc-formatting-guide.md#links). 
+
+Providing the actual url link isn't necessary unless you're linking to an external doc or website. When you click on the link, just start typing the page you want to link to. If you need to link to a specific anchor within that page, you pick that option in the right column once you've designated the page you want to use.
+
+![Left column is the page name - Right column is the list of headers on that page](.gitbook/assets/screen-shot-2019-10-22-at-3.49.44-pm.png)
+
+Sometimes you may want to draw more attention to the link and make sure people see it. You can use the link option to do that, and it will add a big banner link to the link you want to provide.
+
+{% page-ref page="doc-formatting-guide.md" %}
+
+{% hint style="info" %}
+You can only link to a specific page, not an anchor within a page when using this option.
+{% endhint %}
+
