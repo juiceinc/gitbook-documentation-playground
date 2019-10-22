@@ -99,6 +99,18 @@ Your pictures should be captioned if possible, and they should be center aligned
 
 ![3D movie enthusiasts are easily persuadable... or something.](.gitbook/assets/data-viz-wharton.png)
 
+## Tables
+
+Use tables when you're wanting to give the user a quick look at various options that are available to them. An example would be when letting people know different number formatting options that are available to them.
+
+| Tables | Uses |
+| :--- | :--- |
+| Coffee | Collecting junk. Rarely houses coffee |
+| Ping Pong | Serving suckas |
+| Dining | General multipurpose |
+| Periodic | Pretending you know about science |
+| Pool | Not swimming |
+
 ## Lists
 
 ### Bulleted Lists
