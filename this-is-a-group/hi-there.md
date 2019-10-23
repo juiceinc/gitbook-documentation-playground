@@ -1,10 +1,9 @@
 # Hi there!
 
-{% api-method-query-parameters %} {% api-method-parameter name="recipe" type="string" %} The API will do its best to find a cake matching the provided recipe. {% endapi-method-parameter %}
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="slice" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
-Get Cakes
+Get Cakes 2
 {% endapi-method-summary %}
 
 {% api-method-description %}
@@ -18,12 +17,6 @@ This endpoint allows you to get free cakes.
 ID of the cake to get, for free of course.
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
-
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
 
 {% api-method-query-parameters %}
 {% api-method-parameter name="recipe" type="string" %}
