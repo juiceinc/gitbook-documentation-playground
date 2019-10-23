@@ -1,5 +1,7 @@
 # Hi there!
 
+{% api-method-query-parameters %} {% api-method-parameter name="recipe" type="string" %} The API will do its best to find a cake matching the provided recipe. {% endapi-method-parameter %}
+
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
 Get Cakes
