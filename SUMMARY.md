@@ -5,8 +5,8 @@
 
 ## This is a group
 
-* [Hi there!](this-is-a-group/hi-there.md)
 * [What is up?](this-is-a-group/what-is-up.md)
+* [Hi there!](this-is-a-group/hi-there.md)
 * [Legend for docs: cool stuff and how to use them](this-is-a-group/legend-for-docs.-cool-stuff-and-how-to-use-them..md)
 
 ## Another group

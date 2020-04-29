@@ -19,8 +19,8 @@ description: >-
 5. should be used for setup synopsis, tutorial steps synopsis, etc. 
 6. thinking it would be cool to have this at the bottom of some pages as a synopsis of what you had to do previously.
 
-{% code-tabs %}
-{% code-tabs-item title="It needs a title. short and sweet. " %}
+{% tabs %}
+{% tab title="It needs a title. short and sweet. " %}
 ```text
 All code, no matter how small or inconsequential it might seem,
 needs to go in a code block.
@@ -28,17 +28,17 @@ This lets readers know what they're looking at before they read anything
 
 
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="Don\'t add files w/ codeblock" %}
+{% tab title="Don\'t add files w/ codeblock" %}
 ```
 Please don't do this. Use the tabs and have one codeblock 
 w/ only one file in each codeblock. It keeps it way more 
 readable and a lot more intuitive. 
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 {% tabs %}
 {% tab title="card\_example.yaml" %}

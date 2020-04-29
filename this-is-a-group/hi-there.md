@@ -1,6 +1,5 @@
 # Hi there!
 
-
 {% api-method method="slice" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
 Get Cakes 2
@@ -58,6 +57,4 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
 
